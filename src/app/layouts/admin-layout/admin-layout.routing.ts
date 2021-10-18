@@ -14,8 +14,8 @@ export const AdminLayoutRoutes: Routes = [
     { path: 'user',           component: UserComponent },
     { path: 'table',          component: TableComponent },
     { path: 'typography',     component: TypographyComponent },
-    { path: 'icons',          component: IconsComponent },
-    { path: 'maps',           component: MapsComponent },
-    { path: 'notifications',  component: NotificationsComponent },
+    { path: 'customerenquiry',component: IconsComponent },
+    { path: 'Cilbil&LoanStatus',           component: MapsComponent },
+    { path: 'ApllicationRegistration',  component: NotificationsComponent },
     { path: 'upgrade',        component: UpgradeComponent }
 ];
